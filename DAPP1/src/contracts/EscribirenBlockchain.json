@@ -1,0 +1,10 @@
+{
+    "contractName" : "EscribirenBlockchain",
+    "abi": [{"inputs":[{"internalType":"string","name":"_texto","type":"string"}],"name":"Escribir","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"Leer","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"}],
+    "networks": {
+        "3":{
+            "address": "0x3cAE666310A10f92F7065B4B953381CbB8e09d51",
+            "transactionHash": "0xf5f3fd13498342dbf4245742d462e40a02f7f8b388ed9498bc0772a9ee96b3f2"
+        }
+    }
+}
